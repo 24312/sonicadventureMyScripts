@@ -1,9 +1,9 @@
 # sonicadventureMyScripts
-scripts alleen
-Timer
+scripts alleen:
+Timer en
 Rotation
 
-scripts samen met jochem
-Pickup
-DisposibleRings
+scripts samen met jochem:
+Pickup,
+DisposibleRings en
 PlayerDamage
